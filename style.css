@@ -1,0 +1,26 @@
+body{
+	background-image: url("racing.jpg");
+    background-position: center;
+	background-size: cover;
+	font-family: 'Piazzolla', serif;
+}
+#myCanvas
+{
+	border-width:10px;
+	background-color: white; 
+	border-color:white;
+	border-style:ridge;
+}
+
+h1
+{
+	color:white;
+	font-family: 'Piazzolla', serif;
+}
+
+h4{
+	color:white;
+	font-family: 'Piazzolla', serif;
+	background-color: black;
+}
+
